@@ -61,8 +61,8 @@ ubnt
 1qazXSW@
 1q2w3e
 123qweasd
-a
 admin@123
+a
 password1
 guest
 123321
@@ -381,12 +381,12 @@ Admin@1234
 t0talc0ntr0l4!
 963852741
 P@ssw0rd1
+admin888
 iDirect
 idc123
 temp
 123mudar
 admin01
-admin888
 asteriskftp
 caonima
 dolphin1
@@ -905,6 +905,7 @@ rich
 1qaz@WSX3edc$RFV
 abc12345
 admin!@#123
+admin88
 administraator
 apple76
 ezosos
@@ -922,7 +923,6 @@ a.123456
 a@123456
 abcd123456789
 abcde12345
-admin88
 dnflskfk
 ramesh123
 share
